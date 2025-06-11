@@ -1,6 +1,7 @@
 # SCHEMA
 
 '''
+
 your_todo_app/
 ├── instance/
 │   └── config.py  # Sensitive configuration (not version controlled)
@@ -26,6 +27,7 @@ your_todo_app/
 ├── .env                 # Environment variables (for development)
 ├── .flaskenv            # Flask environment variables (e.g., FLASK_APP)
 └── requirements.txt     # Project dependencies
+
 '''
 
 Core Components of the Application Factory
