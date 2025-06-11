@@ -1,0 +1,15 @@
+# Ignore the instance directory
+instance/
+# Ignore all Python bytecode files
+*.pyc
+*~
+# Ignore the virtual environment directory
+venv/
+# Ignore the database file
+*.sqlite3
+# Ignore the coverage report directory
+.coverage
+# Ignore the Flask cache directory
+.flask_cache/
+# Ignore the logs directory
+logs/
